@@ -1,5 +1,6 @@
 streamlit
 ccxt
 pandas
-pandas_ta
+pandas-ta
 plotly
+numpy
