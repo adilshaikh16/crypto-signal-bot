@@ -1,6 +1,5 @@
-streamlit
-ccxt
-pandas
-pandas-ta
-plotly
-numpy
+streamlit==1.31.0
+ccxt==4.2.19
+pandas==2.2.0
+pandas-ta==0.3.14b0
+plotly==5.18.0
